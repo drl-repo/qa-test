@@ -1,0 +1,5 @@
+{
+	"baseUrl" : "https://qa-interview.srcli.xyz",
+	"chromeWebSecurity": false,
+	"homeUrl" : "https://qa-interview.srcli.xyz/"
+}
